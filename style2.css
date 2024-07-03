@@ -1,0 +1,26 @@
+/* 
+ p{
+    color: red;
+
+}
+div p{
+    font-weight: bold;
+}
+div > p{
+    color:aqua;
+}
+div+p{
+    color:brown;
+}
+section+p{
+    color:green;
+}
+section p{
+    color:green;
+} */
+.parent{
+    color:blue;
+}
+.parent > p{
+   color: brown; 
+}

@@ -1,0 +1,69 @@
+  div{
+  background-color: aqua;
+  font-size: 30px;
+  
+  }
+  ul {
+    /* text-align: center;
+    list-style-position: inside;
+  list-style-type:lower-roman;
+  color: brown;
+  list-style-type:circle;
+  /* list-style-image:url(img/khan.jpg.jpg);
+  width: 50px;
+  height: 60px; */
+  list-style-image: url(img/point.png);
+  list-style-position: inside;
+  /* margin: 0;
+  padding: 50px;;
+  list-style-position: outside; */ 
+
+  }
+  h1 {
+  text-align: center;
+  background-color: red;
+  }
+  a{
+  color: red;
+
+  }
+  a:visited{
+  color:red;
+  }
+  a:active{
+  color: aqua;
+  }
+  a:hover{
+  font-weight: bold;
+  }
+  p{
+  text-align: center;
+  color: aqua;
+  font-size: 40px;
+  background-color: brown;
+  }
+  img{
+  width: 50%;
+  
+  }
+  /* .link{
+    width: 50%;
+    height: 60%;
+  } */
+  /* div{
+    background-color: red;
+    background-position: center right;
+    
+  } */
+ul{
+  background-color: tomato;
+  padding: 25px;
+  list-style-position: inside;
+  
+}
+li{
+  background-color:blue;
+  padding: 5px;
+  border-bottom: 1px solid tomato;
+
+}
